@@ -1,1 +1,1 @@
-# zulip-hello
+Design and prototype of the [zulip.com](https://zulip.com/) main page
